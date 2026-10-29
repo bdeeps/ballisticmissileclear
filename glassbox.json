@@ -1,0 +1,105 @@
+{
+  "slug": "ballisticmissileclear",
+  "box": 192,
+  "date": "2026-11-01",
+  "title": "BallisticMissileClear",
+  "question": "What is a ballistic missile?",
+  "hook": "A ballistic missile is a rocket that pushes for a few minutes and then simply falls, along the same kind of arc as a thrown ball. Fire Newton's cannon on a curved Earth and watch an arc close into an orbit.",
+  "thumbText": "WHAT BALLISTIC MEANS",
+  "field": "machines",
+  "minutes": 6,
+  "tags": [
+    "ballistic missile",
+    "ballistic",
+    "projectile",
+    "Newton's cannon",
+    "orbit",
+    "rocket",
+    "arms control",
+    "NPT",
+    "physics"
+  ],
+  "explainer": [
+    {
+      "title": "One push, then free fall",
+      "text": "Ballistic means moving under gravity alone after a single push, like a thrown ball. A ballistic missile is a rocket whose engine burns only for the first few minutes; then it coasts on a free-fall arc and falls back into the air."
+    },
+    {
+      "title": "Newton's cannon",
+      "text": "Newton imagined a cannon on a mountain above the air. Faster shots land further round the curve of the Earth. At about 7.9 km/s the ground curves away as fast as the ball falls, and it orbits. At about 11.2 km/s it escapes."
+    },
+    {
+      "title": "Every arc is part of an ellipse",
+      "text": "A free-fall path around the Earth is a piece of an ellipse with the Earth's centre at one focus, the same shape Kepler found for planets. A short arc is the top of a long, thin ellipse that runs into the ground."
+    },
+    {
+      "title": "Powered by rockets",
+      "text": "The push comes from a rocket built in stages that drop away when empty. Sounding rockets, satellite launchers and ballistic missiles all share this rocket physics; only the path differs."
+    },
+    {
+      "title": "Names and ranges",
+      "text": "The Arms Control Association sorts ballistic missiles into short-range (under 1,000 km), medium-range (1,000 to 3,000 km), intermediate-range (3,000 to 5,500 km) and intercontinental (over 5,500 km). Cruise missiles are different: they fly like aircraft."
+    },
+    {
+      "title": "The human cost and the treaties",
+      "text": "By the end of 1945 the atomic bombings had killed about 140,000 people in Hiroshima and 70,000 in Nagasaki. Since then the NPT, the INF Treaty, the MTCR, the CTBT and New START have tried to limit these weapons, with mixed success."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Ballistic",
+      "def": "Moving under gravity alone after the push has ended, like a thrown ball or a cannon shell."
+    },
+    {
+      "term": "Free fall",
+      "def": "Motion with only gravity acting. A thrown ball, a coasting rocket and an orbiting satellite are all in free fall."
+    },
+    {
+      "term": "Boost, coast and re-entry",
+      "def": "The three phases of a ballistic flight: the engine burns, the rocket coasts on its arc, then it falls back into the air."
+    },
+    {
+      "term": "Orbit speed",
+      "def": "About 7.9 km/s at the Earth's surface: fast enough sideways that the ground curves away as fast as you fall."
+    },
+    {
+      "term": "Escape speed",
+      "def": "About 11.2 km/s from the Earth's surface: fast enough to leave the Earth for good."
+    },
+    {
+      "term": "Ellipse",
+      "def": "A stretched circle. Every free-fall path round the Earth is part of one, with the Earth's centre at a focus."
+    },
+    {
+      "term": "Re-entry heating",
+      "def": "The glow of air squeezed and heated in front of anything that falls back into the air very fast."
+    },
+    {
+      "term": "Cruise missile",
+      "def": "A missile that flies like a small aircraft, held up by wings with its engine running all the way."
+    },
+    {
+      "term": "Arms control",
+      "def": "Agreements between countries to limit, check or reduce weapons, such as the NPT and New START."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "ballisticmissileclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

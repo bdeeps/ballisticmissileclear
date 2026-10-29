@@ -1,0 +1,814 @@
+{
+  "title": "The history of the ballistic missile",
+  "tagline": "Eight hundred years from Chinese fire arrows to Newton's cannon, the space race, and the treaties written in the shadow of Hiroshima.",
+  "intro": "Rockets began as gunpowder arrows in China and iron-cased rockets in Mysore. Newton showed why anything thrown follows an arc, and that a fast enough throw becomes an orbit. In the 20th century the same rockets carried satellites and weapons, built at great human cost. After Hiroshima and Nagasaki, countries spent eighty years writing treaties to limit them: some hold, some have ended.",
+  "eras": [
+    {
+      "id": "fire",
+      "name": "Fire arrows and war rockets",
+      "from": 1200,
+      "to": 1850,
+      "color": "#ffb547",
+      "summary": "Gunpowder rockets spread from China, and Mysore's iron rockets reach Europe."
+    },
+    {
+      "id": "physics",
+      "name": "The physics of the arc",
+      "from": 1680,
+      "to": 1930,
+      "color": "#c49bff",
+      "summary": "Newton explains free fall and orbits, Tsiolkovsky writes the rocket equation, and Goddard flies liquid fuel."
+    },
+    {
+      "id": "missiles",
+      "name": "Missiles and the space race",
+      "from": 1944,
+      "to": 1991,
+      "color": "#ff7a59",
+      "summary": "The V-2, the R-7 and Sputnik, and a crisis over Cuba: rockets become both weapons and spaceships."
+    },
+    {
+      "id": "control",
+      "name": "The human cost and arms control",
+      "from": 1945,
+      "to": 2026,
+      "color": "#5ce1a9",
+      "summary": "Hiroshima and Nagasaki, then decades of treaties to stop tests, stop the spread and cut the numbers."
+    },
+    {
+      "id": "india",
+      "name": "India's rockets",
+      "from": 1963,
+      "to": 2016,
+      "color": "#8ef0ff",
+      "summary": "From a sounding rocket at Thumba to a satellite launcher, a missile programme, a stated doctrine and the MTCR."
+    }
+  ],
+  "events": [
+    {
+      "year": 1232,
+      "date": "c. 1232",
+      "era": "fire",
+      "art": "flame",
+      "title": "Fire arrows in China",
+      "who": "Song and Jin armies (attributed)",
+      "where": "Kaifeng",
+      "country": "China",
+      "text": "Gunpowder was invented in China, and by the 13th century arrows carrying a tube of burning powder were used in battle. The siege of Kaifeng in 1232 is often given as an early example, though historians debate exactly what the sources describe.",
+      "why": "The rocket, a tube that pushes itself by throwing out hot gas, begins here.",
+      "sources": [
+        0,
+        1
+      ],
+      "key": true,
+      "box": "history"
+    },
+    {
+      "year": 1687,
+      "date": "1687",
+      "era": "physics",
+      "art": "apple",
+      "title": "Newton's Principia",
+      "who": "Isaac Newton",
+      "where": "Cambridge",
+      "country": "England",
+      "text": "Newton published his laws of motion and his law of gravity. One law explained a falling apple, a thrown stone and the Moon going round the Earth.",
+      "why": "Every ballistic path, from a ball to a rocket's arc, is worked out with these laws.",
+      "sources": [
+        5,
+        4
+      ],
+      "key": true,
+      "box": "newton"
+    },
+    {
+      "year": 1728,
+      "date": "1728",
+      "era": "physics",
+      "art": "orbit",
+      "title": "Newton's cannon on the mountain",
+      "who": "Isaac Newton (published after his death)",
+      "where": "London",
+      "country": "England",
+      "text": "A Treatise of the System of the World, a popular version of part of the Principia, was printed with Newton's famous drawing: shots from a mountain top land further and further round the Earth until one goes all the way round.",
+      "why": "It is the thought experiment that links a thrown ball to an orbit.",
+      "sources": [
+        4
+      ],
+      "box": "newton"
+    },
+    {
+      "year": 1780,
+      "date": "1780s–1790s",
+      "era": "fire",
+      "art": "rocket",
+      "title": "Mysore's iron rockets",
+      "who": "Hyder Ali and Tipu Sultan's armies",
+      "where": "Mysore",
+      "country": "India",
+      "text": "The armies of Mysore used rockets with iron cases, which could hold more powder and fly further than paper or bamboo rockets, against the East India Company in the wars of the 1780s and 1790s.",
+      "why": "They showed Europe what rockets could do, and RocketClear tells their story.",
+      "sources": [
+        2
+      ],
+      "key": true,
+      "box": "history"
+    },
+    {
+      "year": 1804,
+      "date": "c. 1804–1806",
+      "era": "fire",
+      "art": "rocket",
+      "title": "Congreve rockets",
+      "who": "William Congreve",
+      "where": "Woolwich",
+      "country": "England",
+      "text": "After rockets were captured at Seringapatam in 1799, William Congreve developed British military rockets, used in the Napoleonic Wars and in the War of 1812.",
+      "why": "Mysore's idea spread to Europe and stayed in armies for a century.",
+      "sources": [
+        3,
+        2
+      ]
+    },
+    {
+      "year": 1903,
+      "date": "1903",
+      "era": "physics",
+      "art": "word",
+      "title": "The rocket equation",
+      "who": "Konstantin Tsiolkovsky",
+      "where": "Kaluga",
+      "country": "Russia",
+      "text": "A schoolteacher worked out how much speed a rocket gains from throwing out its mass, and showed that rockets could reach space.",
+      "why": "It is the sum behind every rocket, explained in RocketClear.",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 1926,
+      "date": "16 March 1926",
+      "era": "physics",
+      "art": "rocket",
+      "title": "The first liquid-fuelled rocket",
+      "who": "Robert Goddard",
+      "where": "Auburn, Massachusetts",
+      "country": "United States",
+      "text": "Goddard's small rocket flew for about 2.5 seconds. It was the first rocket to burn liquid fuel.",
+      "why": "Liquid fuel made long, controlled burns possible, the start of modern rocketry.",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 1944,
+      "date": "September 1944",
+      "era": "missiles",
+      "art": "person",
+      "title": "The V-2, built by prisoners",
+      "who": "Nazi Germany",
+      "where": "Mittelwerk, near Nordhausen",
+      "country": "Germany",
+      "text": "The V-2 became the first long-range ballistic missile used in war, against cities including London and Antwerp. It was built largely by concentration-camp prisoners. The Smithsonian estimates that 20,000 to 25,000 people died in the Mittelbau camp system and that at least 10,000 deaths can be attributed to V-2 production, about twice the roughly 5,000 people its attacks killed.",
+      "why": "A weapon that killed more of the people forced to build it than it killed in war.",
+      "sources": [
+        8,
+        9
+      ],
+      "key": true,
+      "box": "history"
+    },
+    {
+      "year": 1945,
+      "date": "6 and 9 August 1945",
+      "era": "control",
+      "art": "candles",
+      "title": "Hiroshima and Nagasaki",
+      "who": "United States (atomic bombs dropped from aircraft)",
+      "where": "Hiroshima and Nagasaki",
+      "country": "Japan",
+      "text": "The only nuclear weapons ever used in war. A UN disarmament page records that by the end of 1945 about 140,000 people in Hiroshima and 70,000 in Nagasaki had died. Published estimates range from about 90,000 to 166,000 and from 60,000 to 80,000. The survivors are called hibakusha.",
+      "why": "Every arms-control treaty since has been shaped by what happened to these two cities.",
+      "sources": [
+        10,
+        12,
+        11
+      ],
+      "key": true,
+      "box": "treaties"
+    },
+    {
+      "year": 1957,
+      "date": "21 August 1957",
+      "era": "missiles",
+      "art": "rocket",
+      "title": "The R-7 flies",
+      "who": "Sergei Korolev's design bureau",
+      "where": "Baikonur",
+      "country": "Soviet Union",
+      "text": "The Soviet R-7, designed as a long-range missile, made its first successful long flight.",
+      "why": "Within weeks the same rocket would launch the first satellite.",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1957,
+      "date": "4 October 1957",
+      "era": "missiles",
+      "art": "orbit",
+      "title": "Sputnik and the space race",
+      "who": "Soviet Union",
+      "where": "Baikonur",
+      "country": "Soviet Union",
+      "text": "An R-7 put Sputnik 1, a small metal sphere with radio transmitters, into orbit. It was the first artificial satellite.",
+      "why": "It showed that missile rockets and space rockets are the same physics, and started the space race.",
+      "sources": [
+        14,
+        13
+      ],
+      "key": true,
+      "box": "rockets"
+    },
+    {
+      "year": 1962,
+      "date": "16–28 October 1962",
+      "era": "missiles",
+      "art": "eye",
+      "title": "The Cuban Missile Crisis",
+      "who": "United States and Soviet Union",
+      "where": "Washington, Moscow and Cuba",
+      "country": "Cuba",
+      "text": "US reconnaissance photographs showed Soviet missile sites being built in Cuba. For thirteen days the two powers faced each other, until the Soviet Union agreed to remove the missiles and the United States pledged not to invade Cuba and, privately, to remove its missiles from Turkey.",
+      "why": "It is often called the closest the world has come to nuclear war, and it led to the first arms-control steps.",
+      "sources": [
+        15
+      ],
+      "key": true
+    },
+    {
+      "year": 1963,
+      "date": "5 August 1963",
+      "era": "control",
+      "art": "scroll",
+      "title": "The Partial Test Ban Treaty",
+      "who": "United States, Soviet Union and United Kingdom",
+      "where": "Moscow",
+      "country": "Soviet Union",
+      "text": "The treaty banned nuclear test explosions in the air, in outer space and under water.",
+      "why": "The first big agreement to limit nuclear weapons.",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 1963,
+      "date": "30 August 1963",
+      "era": "control",
+      "art": "telephone",
+      "title": "The hotline",
+      "who": "United States and Soviet Union",
+      "where": "Washington and Moscow",
+      "country": "United States",
+      "text": "After the Cuban crisis, a direct link was set up so the two leaders could reach each other quickly in an emergency.",
+      "why": "Talking fast became part of keeping the peace.",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 1963,
+      "date": "21 November 1963",
+      "era": "india",
+      "art": "rocket",
+      "title": "India's first rocket launch, Thumba",
+      "who": "Vikram Sarabhai and team",
+      "where": "Thumba, Kerala",
+      "country": "India",
+      "text": "A small sounding rocket was launched from a fishing village near Thiruvananthapuram, the start of India's space programme.",
+      "why": "A peaceful cousin of the ballistic missile: it went up to study the sky and came down.",
+      "sources": [
+        18,
+        36
+      ],
+      "key": true,
+      "box": "rockets"
+    },
+    {
+      "year": 1967,
+      "date": "27 January 1967",
+      "era": "control",
+      "art": "earth",
+      "title": "The Outer Space Treaty",
+      "who": "United Nations members",
+      "where": "London, Moscow and Washington",
+      "country": "United States",
+      "text": "Space is to be explored by all countries for peaceful purposes, and no nuclear weapons may be placed in orbit around the Earth.",
+      "why": "It keeps the orbits of chapter 2 free of nuclear weapons.",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1968,
+      "date": "1 July 1968 (in force 5 March 1970)",
+      "era": "control",
+      "art": "scroll",
+      "title": "The Nuclear Non-Proliferation Treaty",
+      "who": "United Nations members",
+      "where": "London, Moscow and Washington",
+      "country": "United States",
+      "text": "The NPT aims to stop nuclear weapons spreading to more countries, to move towards disarmament, and to share peaceful nuclear technology. It is the most widely joined arms-control treaty. India has not joined it.",
+      "why": "The cornerstone of the system that tries to limit nuclear weapons.",
+      "sources": [
+        20,
+        21
+      ],
+      "key": true,
+      "box": "treaties"
+    },
+    {
+      "year": 1980,
+      "date": "18 July 1980",
+      "era": "india",
+      "art": "rocket",
+      "title": "SLV-3 reaches orbit",
+      "who": "ISRO, project led by A. P. J. Abdul Kalam",
+      "where": "Sriharikota",
+      "country": "India",
+      "text": "India's first satellite launch vehicle put the Rohini satellite into orbit, making India one of a handful of countries able to launch its own satellites.",
+      "why": "The team's rocketry experience went on to shape later Indian programmes.",
+      "sources": [
+        22,
+        24
+      ]
+    },
+    {
+      "year": 1983,
+      "date": "July 1983",
+      "era": "india",
+      "art": "person",
+      "title": "India's guided missile programme",
+      "who": "DRDO, led by A. P. J. Abdul Kalam",
+      "where": "Hyderabad",
+      "country": "India",
+      "text": "The government sanctioned the Integrated Guided Missile Development Programme, run from the DRDO laboratories in Hyderabad under A. P. J. Abdul Kalam.",
+      "why": "It became one of India's largest technology programmes; Kalam later served as President of India from 2002 to 2007.",
+      "sources": [
+        23,
+        24
+      ],
+      "key": true,
+      "box": "history"
+    },
+    {
+      "year": 1987,
+      "date": "April 1987",
+      "era": "control",
+      "art": "scroll",
+      "title": "The Missile Technology Control Regime",
+      "who": "G7 countries",
+      "where": "Paris and Ottawa",
+      "country": "France",
+      "text": "A group of countries agreed to control the export of missiles and the technology to build them. It is an informal arrangement, not a treaty.",
+      "why": "It tries to slow the spread of missiles rather than ban them.",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 1987,
+      "date": "8 December 1987",
+      "era": "control",
+      "art": "quill",
+      "title": "The INF Treaty",
+      "who": "Ronald Reagan and Mikhail Gorbachev",
+      "where": "Washington",
+      "country": "United States",
+      "text": "The United States and the Soviet Union agreed to destroy all their ground-launched missiles with ranges of 500 to 5,500 km, a whole class of weapons, with inspections to check.",
+      "why": "For the first time a whole class of nuclear missiles was removed.",
+      "sources": [
+        26
+      ],
+      "box": "treaties"
+    },
+    {
+      "year": 1991,
+      "date": "31 July 1991",
+      "era": "control",
+      "art": "quill",
+      "title": "START I",
+      "who": "United States and Soviet Union",
+      "where": "Moscow",
+      "country": "Soviet Union",
+      "text": "The first treaty to make deep cuts in long-range nuclear forces, with detailed checks.",
+      "why": "Cuts replaced simple limits.",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": 1996,
+      "date": "24 September 1996",
+      "era": "control",
+      "art": "scroll",
+      "title": "The Comprehensive Nuclear-Test-Ban Treaty",
+      "who": "United Nations members",
+      "where": "New York",
+      "country": "United States",
+      "text": "The CTBT bans all nuclear test explosions. It cannot enter into force until a listed group of countries has ratified it, and it has not.",
+      "why": "A worldwide network of monitoring stations already listens for tests.",
+      "sources": [
+        28,
+        35
+      ]
+    },
+    {
+      "year": 2003,
+      "date": "4 January 2003",
+      "era": "india",
+      "art": "word",
+      "title": "India states its nuclear doctrine",
+      "who": "Government of India (Cabinet Committee on Security)",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "The government published its doctrine, including “Building and maintaining a credible minimum deterrent”, a posture of “No First Use”, and “Non-use of nuclear weapons against non-nuclear weapon states”.",
+      "why": "India's policy, in the government's own words.",
+      "sources": [
+        29
+      ],
+      "box": "treaties"
+    },
+    {
+      "year": 2008,
+      "date": "8 January 2008",
+      "era": "india",
+      "art": "person",
+      "title": "India's missile programme declared complete",
+      "who": "DRDO",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "The DRDO announced that the Integrated Guided Missile Development Programme had met its aims and was complete.",
+      "why": "The work continued in separate projects.",
+      "sources": [
+        23
+      ]
+    },
+    {
+      "year": 2010,
+      "date": "8 April 2010 (in force 5 February 2011)",
+      "era": "control",
+      "art": "quill",
+      "title": "New START",
+      "who": "United States and Russia",
+      "where": "Prague",
+      "country": "Czech Republic",
+      "text": "The treaty limited the long-range nuclear forces of the two largest arsenals and allowed inspections. It was extended in 2021 to February 2026.",
+      "why": "The last treaty limiting the two biggest arsenals.",
+      "sources": [
+        30
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "27 June 2016",
+      "era": "india",
+      "art": "scroll",
+      "title": "India joins the MTCR",
+      "who": "Government of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "India became the 35th member of the Missile Technology Control Regime, its first entry into a multilateral export control regime.",
+      "why": "India joined the group that controls the trade in missile technology.",
+      "sources": [
+        32,
+        25
+      ],
+      "box": "treaties"
+    },
+    {
+      "year": 2017,
+      "date": "7 July 2017 (in force 22 January 2021)",
+      "era": "control",
+      "art": "scroll",
+      "title": "The Treaty on the Prohibition of Nuclear Weapons",
+      "who": "United Nations members",
+      "where": "New York",
+      "country": "United States",
+      "text": "The treaty bans nuclear weapons outright for the countries that join it. None of the countries that have nuclear weapons has joined.",
+      "why": "It reflects the wish of many countries, and the hibakusha, to abolish nuclear weapons.",
+      "sources": [
+        33
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "2 August 2019",
+      "era": "control",
+      "art": "scroll",
+      "title": "The INF Treaty ends",
+      "who": "United States",
+      "where": "Washington",
+      "country": "United States",
+      "text": "The United States withdrew, saying Russia had broken the treaty, which Russia denied. The treaty ended.",
+      "why": "A whole class of missiles was no longer banned.",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": 2026,
+      "date": "5 February 2026",
+      "era": "control",
+      "art": "scroll",
+      "title": "New START expires",
+      "who": "United States and Russia",
+      "where": "Washington and Moscow",
+      "country": "United States",
+      "text": "Russia had suspended its participation in 2023. The treaty expired on 5 February 2026, leaving no treaty limits on the two largest nuclear arsenals for the first time in decades.",
+      "why": "The future of arms control is being argued over again.",
+      "sources": [
+        31,
+        30
+      ],
+      "key": true,
+      "box": "treaties"
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Gunpowder rockets in war",
+      "value": "c. 1232",
+      "who": "China (attributed)"
+    },
+    {
+      "label": "Iron-cased war rockets",
+      "value": "1780s",
+      "who": "Mysore, India"
+    },
+    {
+      "label": "Newton's cannon drawing printed",
+      "value": "1728",
+      "who": "Isaac Newton, England"
+    },
+    {
+      "label": "Liquid-fuelled rocket",
+      "value": "1926",
+      "who": "Robert Goddard, United States"
+    },
+    {
+      "label": "Long-range ballistic missile used in war",
+      "value": "1944",
+      "who": "Germany"
+    },
+    {
+      "label": "Artificial satellite",
+      "value": "1957",
+      "who": "Sputnik 1, Soviet Union"
+    },
+    {
+      "label": "India's first rocket launch",
+      "value": "1963",
+      "who": "Thumba, Kerala"
+    }
+  ],
+  "people": [
+    {
+      "name": "Isaac Newton",
+      "life": "1643 – 1727",
+      "role": "Mathematician and physicist",
+      "from": "England",
+      "note": "Explained free fall and orbits with one law of gravity, and imagined the cannon on the mountain."
+    },
+    {
+      "name": "Tipu Sultan",
+      "life": "1751 – 1799",
+      "role": "Ruler of Mysore",
+      "from": "India",
+      "note": "His armies used iron-cased rockets that impressed and alarmed the British."
+    },
+    {
+      "name": "Konstantin Tsiolkovsky",
+      "life": "1857 – 1935",
+      "role": "Teacher and theorist",
+      "from": "Russia",
+      "note": "Worked out the rocket equation and showed that rockets could reach space."
+    },
+    {
+      "name": "Robert Goddard",
+      "life": "1882 – 1945",
+      "role": "Physicist and engineer",
+      "from": "United States",
+      "note": "Flew the first liquid-fuelled rocket in 1926."
+    },
+    {
+      "name": "Vikram Sarabhai",
+      "life": "1919 – 1971",
+      "role": "Physicist",
+      "from": "India",
+      "note": "Founded India's space programme and the Thumba launch station."
+    },
+    {
+      "name": "A. P. J. Abdul Kalam",
+      "life": "1931 – 2015",
+      "role": "Aerospace engineer and President of India",
+      "from": "India",
+      "note": "Led the SLV-3 project and the Integrated Guided Missile Development Programme, then served as President from 2002 to 2007."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "A thrown cricket ball, a sounding rocket and a satellite all follow the same law of gravity: only their speed is different.",
+    "Fire anything sideways at about 7.9 km/s just above the ground, with no air in the way, and it would never come down.",
+    "The Smithsonian estimates that the V-2 killed about twice as many of the prisoners forced to build it as people in its attacks.",
+    "The first artificial satellite, Sputnik, was launched by a rocket designed as a missile.",
+    "India's space programme began in 1963 with a rocket launched from a fishing village, Thumba, in Kerala."
+  ],
+  "sources": [
+    {
+      "title": "History of rockets",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_rockets"
+    },
+    {
+      "title": "Fire arrow",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fire_arrow"
+    },
+    {
+      "title": "Mysorean rockets",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mysorean_rockets"
+    },
+    {
+      "title": "Congreve rocket",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Congreve_rocket"
+    },
+    {
+      "title": "Newton's cannonball",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Newton%27s_cannonball"
+    },
+    {
+      "title": "Philosophiæ Naturalis Principia Mathematica",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica"
+    },
+    {
+      "title": "Konstantin Tsiolkovsky",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Konstantin_Tsiolkovsky"
+    },
+    {
+      "title": "Robert H. Goddard",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_H._Goddard"
+    },
+    {
+      "title": "Wonder Weapons and Slave Labor (Michael Neufeld, 2020)",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/stories/editorial/wonder-weapons-and-slave-labor"
+    },
+    {
+      "title": "V-2 rocket",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/V-2_rocket"
+    },
+    {
+      "title": "Atomic bomb survivors (hibakusha) present their personal stories (8 May 2013)",
+      "publisher": "UN Office for Disarmament Affairs",
+      "url": "https://disarmament.unoda.org/en/updates/atomic-bomb-survivors-hibakusha-present-their-personal-stories-humanitarian-impact-use-nuclear-weapons"
+    },
+    {
+      "title": "The Moment the World Changed Forever (photo essay)",
+      "publisher": "United Nations",
+      "url": "https://media.un.org/photo/en/photo-essays/moment-world-changed-forever"
+    },
+    {
+      "title": "Atomic bombings of Hiroshima and Nagasaki",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki"
+    },
+    {
+      "title": "R-7 Semyorka",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/R-7_Semyorka"
+    },
+    {
+      "title": "Sputnik 1",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sputnik_1"
+    },
+    {
+      "title": "The Cuban Missile Crisis",
+      "publisher": "John F. Kennedy Presidential Library and Museum",
+      "url": "https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/cuban-missile-crisis"
+    },
+    {
+      "title": "Moscow–Washington hotline",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Moscow%E2%80%93Washington_hotline"
+    },
+    {
+      "title": "Partial Nuclear Test Ban Treaty",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Partial_Nuclear_Test_Ban_Treaty"
+    },
+    {
+      "title": "Thumba Equatorial Rocket Launching Station",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thumba_Equatorial_Rocket_Launching_Station"
+    },
+    {
+      "title": "Outer Space Treaty",
+      "publisher": "UN Office for Outer Space Affairs",
+      "url": "https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/outerspacetreaty.html"
+    },
+    {
+      "title": "Treaty on the Non-Proliferation of Nuclear Weapons (NPT)",
+      "publisher": "UN Office for Disarmament Affairs",
+      "url": "https://disarmament.unoda.org/wmd/nuclear/npt/"
+    },
+    {
+      "title": "Treaty on the Non-Proliferation of Nuclear Weapons",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons"
+    },
+    {
+      "title": "Satellite Launch Vehicle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Satellite_Launch_Vehicle"
+    },
+    {
+      "title": "Integrated Guided Missile Development Programme",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Integrated_Guided_Missile_Development_Programme"
+    },
+    {
+      "title": "A. P. J. Abdul Kalam",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam"
+    },
+    {
+      "title": "Missile Technology Control Regime",
+      "publisher": "MTCR",
+      "url": "https://www.mtcr.info/"
+    },
+    {
+      "title": "Intermediate-Range Nuclear Forces Treaty",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Intermediate-Range_Nuclear_Forces_Treaty"
+    },
+    {
+      "title": "START I",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/START_I"
+    },
+    {
+      "title": "Comprehensive Nuclear-Test-Ban Treaty",
+      "publisher": "CTBTO",
+      "url": "https://www.ctbto.org/our-mission/the-treaty"
+    },
+    {
+      "title": "Cabinet Committee on Security reviews progress in operationalizing India's nuclear doctrine (4 January 2003)",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://archive.pib.gov.in/release02/lyr2003/rjan2003/04012003/r040120033.html"
+    },
+    {
+      "title": "New START",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/New_START"
+    },
+    {
+      "title": "Expiry of the New START Treaty (6 February 2026)",
+      "publisher": "French Ministry for Europe and Foreign Affairs",
+      "url": "https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/expiration-du-traite-new-start"
+    },
+    {
+      "title": "India formally joins Missile Technology Control Regime (27 June 2016)",
+      "publisher": "Business Standard (IANS)",
+      "url": "https://www.business-standard.com/article/news-ians/india-formally-joins-missile-technology-control-regime-116062700195_1.html"
+    },
+    {
+      "title": "Treaty on the Prohibition of Nuclear Weapons",
+      "publisher": "UN Office for Disarmament Affairs",
+      "url": "https://disarmament.unoda.org/wmd/nuclear/tpnw/"
+    },
+    {
+      "title": "Worldwide Ballistic Missile Inventories (reviewed August 2023)",
+      "publisher": "Arms Control Association",
+      "url": "https://www.armscontrol.org/factsheets/missiles"
+    },
+    {
+      "title": "Comprehensive Nuclear-Test-Ban Treaty",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Comprehensive_Nuclear-Test-Ban_Treaty"
+    },
+    {
+      "title": "Vikram Sarabhai",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vikram_Sarabhai"
+    }
+  ]
+}
